@@ -129,6 +129,9 @@ save_srt(words, filename="transcription.srt")
 
 This project is licensed under the MIT License.
 
+![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+![GitHub stars](https://img.shields.io/github/stars/ADEL-MAHMOUD10/SubTranscribe.svg)
+
 ## Acknowledgements
 
 - This project uses the [ElevenLabs](https://elevenlabs.io/) Scribe v1 API for speech-to-text transcription  

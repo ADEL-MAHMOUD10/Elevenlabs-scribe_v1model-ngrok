@@ -134,5 +134,5 @@ This project is licensed under the MIT License.
 
 ## Acknowledgements
 
-- This project uses the [ElevenLabs](https://elevenlabs.io/) Scribe v1 API for speech-to-text transcription  
+- This project uses the [ElevenLabs](https://elevenlabs.io/) Scribe v1 model for speech-to-text transcription  
 - [ngrok](https://ngrok.com/) for creating secure tunnels to localhost  

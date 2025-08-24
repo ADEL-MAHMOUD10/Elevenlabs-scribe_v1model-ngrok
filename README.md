@@ -127,7 +127,7 @@ save_srt(words, filename="transcription.srt")
 
 ## License
 
-[Specify your license here]
+This project is licensed under the MIT License.
 
 ## Acknowledgements
 
